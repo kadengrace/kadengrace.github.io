@@ -9,7 +9,10 @@ author_profile: true
 
 *University of Tennessee - Knoxville*
 
-**ECON 311: Intermediate Microeconomics** - Spring 2026
+<br>
+**[ECON 311: Intermediate Microeconomics](http://catalog.utk.edu/preview_course_nopop.php?catoid=54&coid=350391&){:target="_blank"}**
+
+*Spring 2026*
 
 Engaged and mentored students by teaching a course for Economics majors covering consumer theory, producer theory, market structures, and welfare analysis.
 
@@ -17,16 +20,24 @@ Engaged and mentored students by teaching a course for Economics majors covering
 
 ## Teaching Assistant
 
-*University of Tennessee - Knoxville*
+*University of Tennessee - Knoxville*  
+<br>
+**[ECON 581: Mathematical Methods in Economics](http://catalog.utk.edu/preview_course_nopop.php?catoid=55&coid=358468&){:target="_blank"}** 
 
-**ECON 581: Mathematical Methods in Economics** - Fall 2023
+*Fall 2023*
 
 Assisted in graduate-level course covering mathematical tools for economic analysis, including optimization, dynamic programming, and fixed point theorems.
 
-**ECON 311: Intermediate Microeconomics** - Spring 2023
+<br>
+**[ECON 311: Intermediate Microeconomics](http://catalog.utk.edu/preview_course_nopop.php?catoid=54&coid=350391&){:target="_blank"}** 
+
+*Spring 2023*
 
 Supported instruction in intermediate microeconomic theory for upper-level undergraduates.
 
-**ECON 211: Principles of Microeconomics** - Fall 2022, Spring 2023
+<br>
+**[ECON 211: Principles of Microeconomics](http://catalog.utk.edu/preview_course_nopop.php?catoid=54&coid=352759&){:target="_blank"}** 
+
+*Fall 2022, Spring 2023*
 
 Assisted in introductory microeconomics courses, conducted review sessions, and graded assignments for large lecture sections.

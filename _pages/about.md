@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaden Grace"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
