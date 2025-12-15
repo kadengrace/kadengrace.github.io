@@ -3,12 +3,15 @@ layout: archive
 title: "Scuba Diving"
 permalink: /scuba/
 author_profile: true
-header:
-  image: /images/blue water.JPG
 ---
 
-Outside of economics, I spend much of my time underwater. I am a certified scuba diving instructor through NAUI, SSI, and PADI, sharing my passion for diving with students around the world.
+I am a certified scuba diving instructor through NAUI, SSI, and PADI. I share my passion for diving with students around the world. My deepest dive to date was 141' on the [Wreck of the Deep Stim](https://panamacitydiving.com/charters/deep-stim-shipwreck-double-dip){:target="_blank"} off the coast of Panama City, FL.
 
+---
+<figure>
+  <img src="/images/blue water.JPG" alt="Blue-water">
+  <figcaption>Ninety feet of blue water, Cozumel, Mexico (2024)</figcaption>
+</figure>
 ---
 
 <figure>

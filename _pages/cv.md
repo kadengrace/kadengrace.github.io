@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Download CV (PDF)](/files/CV - Kaden Grace.pdf){: .btn .btn--primary .btn--large}
+[Download my CV (PDF)](/files/CV - Kaden Grace.pdf){: .btn .btn--primary .btn--large}
+
+<embed src="/files/CV - Kaden Grace.pdf" type="application/pdf" width="100%" height="800px" />
 
 ---
 
@@ -21,6 +23,7 @@ redirect_from:
 
 **B.S. Economics, B.A. Mathematics** (2022)
 *University of Mississippi*
+
 Honors: summa cum laude, Phi Kappa Phi
 
 ---
@@ -28,22 +31,12 @@ Honors: summa cum laude, Phi Kappa Phi
 ## Research Fields
 
 * Public Economics
-* Behavioral and Experimental Economics
 * Health Economics
+* Behavioral and Experimental Economics
 
 ---
 
-## Research Experience
-
-**Research Assistant (Graduate)**
-*University of Tennessee - Knoxville, 2023-2025*
-
-**Experimental Lab Manager**
-*University of Tennessee - Knoxville, 2023-2026*
-
----
-
-## Teaching Experience
+## [Teaching Experience](/teaching/)
 
 **Instructor of Record**
 *University of Tennessee - Knoxville*
@@ -54,6 +47,16 @@ Honors: summa cum laude, Phi Kappa Phi
 * ECON 211: Principles of Microeconomics, Fall 2022 – Spring 2023
 * ECON 311: Intermediate Microeconomics, Spring 2023
 * ECON 581: Mathematical Methods in Economics, Fall 2023
+
+---
+
+## [Research Work Experience](/research/)
+
+**Research Assistant (Graduate)**
+*University of Tennessee - Knoxville, 2023-2025*
+
+**Experimental Lab Manager**
+*University of Tennessee - Knoxville, 2023-2026*
 
 ---
 
@@ -70,10 +73,8 @@ Honors: summa cum laude, Phi Kappa Phi
 
 ## Service
 
-* Student Representative, Campus Advisory Board, 2025-2026
+* Student Representative, [Campus Advisory Board](https://chancellor.utk.edu/university-leadership/advisory-board/){:target="_blank"}, 2025-2026
 * Chairperson, Doctoral Student Association, 2023-2024
 * Organizer, Graduate Student Research Seminar, 2023-2025
 
 ---
-
-For a complete CV, please download the PDF version above.

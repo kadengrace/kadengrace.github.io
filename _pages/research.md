@@ -13,9 +13,9 @@ Texas Senate Bill 8, enacted in September 2021, introduced a novel enforcement m
 
 ---
 
-### Saving for a Rainy Day: Experimental Evidence on Prize-Linked Saving and Financial Shocks
+### [Saving for a Rainy Day: Experimental Evidence on Prize-Linked Saving and Financial Shocks](/files/plsaGrace.pdf){:target="_blank"}
 
-[Download Paper](/files/plsaGrace.pdf){: .btn .btn--info}
+[View latest draft](/files/plsaGrace.pdf){: .btn .btn--info target="_blank"}
 
 Liquidity constraints and inadequate precautionary savings create substantial financial vulnerability for low-income households who face costly or inaccessible credit markets when unexpected expenses arise. This paper presents a laboratory experiment integrating a dynamic life-cycle savings model with prize-linked savings accounts (PLSAs, which offer lottery-style prizes in lieu of guaranteed interest) to investigate whether the behaviorally-motivated intervention can increase savings under financial uncertainty. I find that PLSAs crowd-out traditional savings accounts by 38.5 to 33.6 percent. Total savings does not increase. This portfolio reallocation imposes costs: participants lose 9.1 to 17.8 percent of potential earnings by forgoing compound interest, with the largest effects concentrated among risk-seeking individuals who exhibit 93.7 percent crowding-out. PLSAs function primarily as portfolio substitutes rather than savings-creation tools. Heterogeneity across customer risk preferences suggests that PLSAs may be most attractive to risk-seeking households.
 
