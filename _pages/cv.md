@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "CV - Kaden Grace"
+description: "Curriculum Vitae of Kaden Grace, Economics PhD candidate at University of Tennessee - Knoxville. Education, research experience, teaching, fellowships, and awards in public finance and health economics."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -74,7 +75,7 @@ Honors: summa cum laude, Phi Kappa Phi
 ## Service
 
 * Student Representative, [Campus Advisory Board](https://chancellor.utk.edu/university-leadership/advisory-board/){:target="_blank"}, 2025-2026
-* Chairperson, Doctoral Student Association, 2023-2024
+* Chairperson, Doctoral Student Association, 2023-2026
 * Organizer, Graduate Student Research Seminar, 2023-2025
 
 ---

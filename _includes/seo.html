@@ -25,6 +25,15 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 <meta name="description" content="{{ seo_description }}">
+<meta name="author" content="Kaden Grace">
+
+{% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+{% elsif page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+{% else %}
+  <meta name="keywords" content="kaden grace, kaden grace economics, grace economics, economics phd, public finance, health economics, behavioral economics, university of tennessee economics">
+{% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -98,6 +107,42 @@
   </script>
 {% endif %}
 
+<!-- Enhanced Academic/Researcher Schema.org structured data -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Kaden Grace",
+  "givenName": "Kaden",
+  "familyName": "Grace",
+  "url": "https://kadengrace.github.io",
+  "image": "https://kadengrace.github.io/images/Headshot.jpg",
+  "jobTitle": "Economics PhD Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Tennessee - Knoxville",
+    "url": "https://www.utk.edu"
+  },
+  "alumniOf": [
+    {
+      "@type": "Organization",
+      "name": "University of Mississippi"
+    },
+    {
+      "@type": "Organization",
+      "name": "University of Tennessee - Knoxville"
+    }
+  ],
+  "knowsAbout": ["Public Finance", "Health Economics", "Behavioral Economics", "Experimental Economics", "Applied Microeconomics"],
+  "description": "Economics PhD candidate specializing in public finance, health economics, and behavioral economics at the University of Tennessee - Knoxville",
+  "email": "kaden.grace@utk.edu",
+  "sameAs": [
+    "https://www.linkedin.com/in/kaden-grace",
+    "https://kadengrace.github.io"
+  ]
+}
+</script>
+
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
@@ -113,11 +158,15 @@
 <!-- end SEO -->
 
 <!-- Open Graph protocol data (https://ogp.me/), used by social media -->
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
-<meta property="og:site_name" content="{{ site.title }}"> 
+<meta property="og:locale" content="{{ site.locale | default: "en_US" }}">
+<meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 {% if page.date %}
   <meta property="og:type" content="article">
+{% else %}
+  <meta property="og:type" content="profile">
+  <meta property="profile:first_name" content="Kaden">
+  <meta property="profile:last_name" content="Grace">
 {% endif %}
 {% if page.excerpt %}
   <meta property="og:description" name="description" content="{{ seo_description }}">

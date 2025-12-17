@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Kaden Grace"
 title_separator          : "-"
 name                     : &name "Kaden Grace"
-description              : &description "Kaden Grace, Economics PhD Candidate at the University of Tennessee - Knoxville"
+description              : &description "Kaden Grace is an Economics PhD candidate at the University of Tennessee - Knoxville specializing in public finance, health economics, and behavioral economics. Research on prize-linked savings, healthcare policy, and unemployment insurance reform."
 url                      : https://kadengrace.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -141,13 +141,15 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "/images/Headshot.jpg"  # Social media default site image
-og_description           : "Kaden Grace, Economics PhD Candidate"  # Social media default site image description
+og_description           : "Kaden Grace - Economics PhD candidate at University of Tennessee - Knoxville. Research in public finance, health economics, and behavioral economics."  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person" # Person or Organization (defaults to Person)
+  name                   : "Kaden Grace" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.linkedin.com/in/kaden-grace"
+    - "https://kadengrace.github.io"
 
 
 # Analytics

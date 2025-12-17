@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching - Kaden Grace"
+description: "Kaden Grace's teaching experience in economics at the University of Tennessee - Knoxville. Instructor for Intermediate Microeconomics and teaching assistant for graduate-level mathematical economics courses."
 permalink: /teaching/
 author_profile: true
 ---

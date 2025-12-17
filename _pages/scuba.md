@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Scuba Diving"
+description: "Kaden Grace is a certified scuba diving instructor through NAUI, SSI, and PADI. Underwater photography and diving experiences from around the world."
 permalink: /scuba/
 author_profile: true
 ---
