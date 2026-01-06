@@ -13,7 +13,7 @@ title                    : "Kaden Grace"
 title_separator          : "-"
 name                     : &name "Kaden Grace"
 description              : &description "Kaden Grace is an Economics PhD candidate at the University of Tennessee - Knoxville specializing in public finance, health economics, and behavioral economics. Research on prize-linked savings, healthcare policy, and unemployment insurance reform."
-url                      : https://kadengrace.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://kadengrace.co # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kadengrace.github.io"
