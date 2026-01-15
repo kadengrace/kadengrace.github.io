@@ -15,6 +15,8 @@ author_profile: true
 
 *Spring 2026*
 
+*[Syllabus](files/Econ 311 Syllabus Spring 2026.pdf){:target="_blank"}*
+
 Engaged and mentored students by teaching a course for Economics majors covering consumer theory, producer theory, market structures, and welfare analysis.
 
 ---
