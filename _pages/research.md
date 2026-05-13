@@ -36,14 +36,14 @@ author_profile: true
   </div>
 </div>
 
-## The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations
+## The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations [(Click to view latest draft)](/files/migrationAndersenGrace.pdf){:target="_blank"}
 
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
 <div class="abstract-accordion">
   <div class="abstract-header">Abstract</div>
   <div class="abstract-content">
-    Texas Senate Bill 8, enacted in September 2021, introduced a novel enforcement mechanism for abortion restrictions. The law allowed any person to sue physicians who perform abortions after approximately six weeks of pregnancy for minimum damages of $10,000 per violation plus legal costs. This paper examines whether physicians, particularly obstetricians and gynecologists, left Texas in response to SB-8's civil liability provisions. We use Medicare administrative data on healthcare providers from November 2007 through June 2022, covering the nine-month period before the Supreme Court's Dobbs decision. The analysis compares the number of active OB/GYNs in Texas to other physician specialties, relative to the same comparison in other states. This triple-difference approach isolates the effect of SB-8 from broader trends affecting Texas or physicians nationally. We find a 1.47 percent reduction in active OB/GYNs in Texas during the nine months following SB-8. These findings demonstrate that civil liability mechanisms can influence physician location decisions, with implications for healthcare access in states considering similar enforcement approaches.
+    A civil liability enforcement mechanism (CLEM) seeks to circumvent constitutionality by replacing criminal prosecution with private civil suits. CLEM imposes higher expected costs on society by lowering the evidentiary burden for the accused and expanding the pool of potentially liable people. Texas Senate Bill 8 (SB-8, 2021) was the first law to apply CLEM: any private citizen could sue anyone who ``aids or abets'' an abortion after six weeks of gestation for minimum damages of $10,000. We examine the effect of SB-8's civil liability enforcement mechanism on the labor market for reproductive health physicians in Texas. We use a Medicare administrative provider panel (2007-2022) and Wagescape job posting data (2016-2022) to estimate triple-difference models. We find that reproductive health physicians did not leave Texas at differential rates following SB-8. The null result is consistent with the high cost of relocation, estimated at $150,000 to $250,000 in licensing and insurance costs. Neither posted salaries nor job posting volume for reproductive healthcare providers change. Our results stand in contrast to recent news media that claim a large physician migration response. We complement a rapidly emerging literature by showing CLEM in this context had no discernible effect above and beyond the effect of the changing national abortion landscape. 
   </div>
 </div>
 
