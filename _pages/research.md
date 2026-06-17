@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research - Kaden Grace"
+title: "Research"
 description: "Kaden Grace's economics research focuses on public finance, health economics, and behavioral economics. Working papers on prize-linked savings, physician migration after abortion restrictions, and unemployment insurance reform in Tennessee."
 permalink: /research/
 author_profile: true
@@ -8,12 +8,13 @@ author_profile: true
 <br>
 # Working Papers
 
-## Saving for a Rainy Day: Experimental Evidence on Prize-Linked Saving and Financial Shocks [(Click to view latest draft)](/files/plsaGrace.pdf){:target="_blank"}
+## Saving for a Rainy Day: Experimental Evidence on Prize-Linked Saving and Financial Shocks
+[(Click to view latest draft)](/files/plsaGrace.pdf){:target="_blank"}
 
 <div class="abstract-accordion">
   <div class="abstract-header">Abstract</div>
   <div class="abstract-content">
-    Liquidity constraints and inadequate precautionary savings create substantial financial vulnerability for low-income households who face costly or inaccessible credit markets when unexpected expenses arise. This paper presents a laboratory experiment integrating a dynamic life-cycle savings model with prize-linked savings accounts (PLSAs, which offer lottery-style prizes in lieu of guaranteed interest) to investigate whether the behaviorally-motivated intervention can increase savings under financial uncertainty. I find that PLSAs crowd-out traditional savings accounts by 38.5 to 33.6 percent. Total savings does not increase. This portfolio reallocation imposes costs: participants lose 9.1 to 17.8 percent of potential earnings by forgoing compound interest, with the largest effects concentrated among risk-seeking individuals who exhibit 93.7 percent crowding-out. PLSAs function primarily as portfolio substitutes rather than savings-creation tools. Heterogeneity across customer risk preferences suggests that PLSAs may be most attractive to risk-seeking households.
+    {{ site.data.abstracts.plsa }}
   </div>
 </div>
 
@@ -36,17 +37,27 @@ author_profile: true
   </div>
 </div>
 
-## The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations [(Click to view latest draft)](/files/migrationAndersenGrace.pdf){:target="_blank"}
+## The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations
+[(Click to view latest draft)](/files/migrationAndersenGrace.pdf){:target="_blank"}
 
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
 <div class="abstract-accordion">
   <div class="abstract-header">Abstract</div>
   <div class="abstract-content">
-    A civil liability enforcement mechanism (CLEM) seeks to circumvent constitutionality by replacing criminal prosecution with private civil suits. CLEM imposes higher expected costs on society by lowering the evidentiary burden for the accused and expanding the pool of potentially liable people. Texas Senate Bill 8 (SB-8, 2021) was the first law to apply CLEM: any private citizen could sue anyone who ``aids or abets'' an abortion after six weeks of gestation for minimum damages of $10,000. We examine the effect of SB-8's civil liability enforcement mechanism on the labor market for reproductive health physicians in Texas. We use a Medicare administrative provider panel (2007-2022) and Wagescape job posting data (2016-2022) to estimate triple-difference models. We find that reproductive health physicians did not leave Texas at differential rates following SB-8. The null result is consistent with the high cost of relocation, estimated at $150,000 to $250,000 in licensing and insurance costs. Neither posted salaries nor job posting volume for reproductive healthcare providers change. Our results stand in contrast to recent news media that claim a large physician migration response. We complement a rapidly emerging literature by showing CLEM in this context had no discernible effect above and beyond the effect of the changing national abortion landscape. 
+    {{ site.data.abstracts.migration }}
   </div>
 </div>
 
+<div class="image-scroller-container">
+  <button class="scroller-arrow left">‹</button>
+  <button class="scroller-arrow right">›</button>
+  <div class="image-scroller">
+    <div class="image-tile">
+      <embed src="/images/coef_plot_combined_redStates.pdf" type="application/pdf" width="100%" height="100%">
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -58,6 +69,6 @@ author_profile: true
 <div class="abstract-accordion">
   <div class="abstract-header">Abstract</div>
   <div class="abstract-content">
-    In 2024, Tennessee changed the generosity and duration of Unemployment Insurance (UI) benefits. For the last 20 years, UI-eligible individuals who were displaced from their jobs could receive up to 60 percent of their previous wages up to $275 per week for a maximum of 26 weeks. For claims filed after Dec 1, 2023, individuals could receive up to $325 per week, but the duration of those benefits was shortened to as low as 12 weeks depending on the state's unemployment rate. In this project, we will examine the effects of this reform on both the state as a whole and also at the individual claimant level.
+    {{ site.data.abstracts.ui }}
   </div>
 </div>

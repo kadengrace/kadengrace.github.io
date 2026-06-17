@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - Kaden Grace"
+title: "CV"
 description: "Curriculum Vitae of Kaden Grace, Economics PhD candidate at University of Tennessee - Knoxville. Education, research experience, teaching, fellowships, and awards in public finance and health economics."
 permalink: /cv/
 author_profile: true
@@ -8,9 +8,9 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](/files/CV - Kaden Grace.pdf){: .btn .btn--primary .btn--large}
+[Download my CV (PDF)](/files/cv.pdf){: .btn .btn--primary .btn--large}
 
-<embed src="/files/CV - Kaden Grace.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
 
 ---
 

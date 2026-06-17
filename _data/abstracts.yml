@@ -1,0 +1,44 @@
+plsa: >
+  Liquidity constraints and inadequate precautionary savings create financial vulnerability
+  for low-income households who face costly credit markets when unexpected expenses arise.
+  This paper presents a laboratory experiment integrating a dynamic life-cycle savings model
+  with prize-linked savings accounts (PLSAs, which offer lottery-style prizes in lieu of
+  guaranteed interest) to investigate whether the behaviorally-motivated intervention can
+  increase savings under financial uncertainty. I find that PLSAs crowd-out traditional
+  savings accounts by 36.3 to 33.0 percent. Total savings do not increase. This portfolio
+  reallocation imposes costs in the low prize treatment: participants earn 16.7 percent less
+  than control, with the largest crowding-out effects concentrated among not risk averse
+  individuals who exhibit 43.3 percent reductions in traditional savings. PLSAs function
+  primarily as portfolio substitutes rather than savings-creation tools. Heterogeneity across
+  risk preferences suggests that PLSAs should be marketed to unbanked households who are not
+  risk averse.
+
+migration: >
+  This paper studies the labor market effects of civil liability enforcement using Texas
+  Senate Bill 8 (SB-8, 2021) as a natural experiment. A civil liability enforcement mechanism
+  in this context allows any citizen to sue anyone who "aids or abets" a prohibited abortion
+  for minimum damages of $10,000. This "bounty law" lowers the evidentiary burden and expands
+  the pool of potentially liable individuals, which raises expected operating costs and could
+  incentivize out-migration for a broad set of physicians compared to traditional criminal
+  enforcement. We exploit variation across physician specialties, states, and time in a
+  triple-difference design, comparing reproductive health physicians to all other physicians in
+  Texas against similarly abortion-hostile states before and after SB-8's signing. Using a
+  Medicare administrative provider panel of approximately 1.4 million physicians (2007--2022)
+  and Wagescape job posting data (2016--2022), we find that reproductive health physicians did
+  not leave Texas at differential rates following SB-8. The null result is consistent with the
+  high fixed cost of interstate relocation, estimated at $150,000 to $250,000. Neither posted
+  salaries nor job posting volume for reproductive health providers changed differentially. Our
+  findings are corroborated by synthetic difference-in-differences and synthetic control
+  estimators and provide a contrast to prominent media narratives of a large OB/GYN exodus
+  from Texas. We contribute to a rapidly emerging literature by providing evidence that civil
+  liability enforcement had no detectable effect on the Texas physician labor market above and
+  beyond the broader abortion policy environment.
+
+ui: >
+  In 2024, Tennessee changed the generosity and duration of Unemployment Insurance (UI)
+  benefits. For the last 20 years, UI-eligible individuals who were displaced from their jobs
+  could receive up to 60 percent of their previous wages up to $275 per week for a maximum of
+  26 weeks. For claims filed after Dec 1, 2023, individuals could receive up to $325 per week,
+  but the duration of those benefits was shortened to as low as 12 weeks depending on the
+  state's unemployment rate. In this project, we will examine the effects of this reform on
+  both the state as a whole and also at the individual claimant level.
