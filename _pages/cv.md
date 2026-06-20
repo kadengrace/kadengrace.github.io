@@ -8,9 +8,9 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV (PDF)](/files/cv.pdf){: .btn .btn--primary .btn--large}
+[Download my CV (PDF)](/files/Grace_Kaden_CV.pdf){: .btn .btn--primary .btn--large}
 
-<embed src="/files/cv.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/Grace_Kaden_CV.pdf" type="application/pdf" width="100%" height="800px" />
 
 ---
 
@@ -31,9 +31,9 @@ Honors: summa cum laude, Phi Kappa Phi
 
 ## Research Fields
 
-* Public Economics
-* Health Economics
-* Behavioral and Experimental Economics
+Primary: Public Economics, Health Economics
+
+Secondary: Labor Economics, Behavioral and Experimental Economics
 
 ---
 
@@ -41,6 +41,7 @@ Honors: summa cum laude, Phi Kappa Phi
 
 **Instructor of Record**
 *University of Tennessee - Knoxville*
+* ECON 311: Intermediate Microeconomics, Summer 2026
 * ECON 311: Intermediate Microeconomics, Spring 2026
 
 **Teaching Assistant (Graduate)**
@@ -54,10 +55,12 @@ Honors: summa cum laude, Phi Kappa Phi
 ## [Research Work Experience](/research/)
 
 **Research Assistant (Graduate)**
-*University of Tennessee - Knoxville, 2023-2025*
+*University of Tennessee - Knoxville, 2023–Current*
+- Created and cleaned a novel dataset of every physician and hospital in the U.S.: approximately 4.3M records per month across 19 years
 
 **Experimental Lab Manager**
-*University of Tennessee - Knoxville, 2023-2026*
+*University of Tennessee - Knoxville, 2023–Current*
+- Designed and executed 27 experimental sessions with 1,100+ participants
 
 ---
 
@@ -67,7 +70,7 @@ Honors: summa cum laude, Phi Kappa Phi
 * Best First-Year Graduate Student, 2023
 * Walter Melville Bonham PhD Fellowship, 2024
 * J. Fred & Wilma Holly PhD Fellowship, 2024
-* Joseph & Barbra O'Donnell PhD Fellowship, 2023
+* Joseph & Barbara O'Donnell PhD Fellowship, 2023
 * Haslam Excellence Doctoral Fellowship, 2022-2024
 
 ---
@@ -75,7 +78,7 @@ Honors: summa cum laude, Phi Kappa Phi
 ## Service
 
 * Student Representative, [Campus Advisory Board](https://chancellor.utk.edu/university-leadership/advisory-board/){:target="_blank"}, 2025-2026
-* Chairperson, Doctoral Student Association, 2023-2026
+* Chairperson, Doctoral Student Association, 2023-2024
 * Organizer, Graduate Student Research Seminar, 2023-2025
 
 ---
