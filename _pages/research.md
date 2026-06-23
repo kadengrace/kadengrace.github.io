@@ -54,7 +54,7 @@ author_profile: true
   <button class="scroller-arrow right">›</button>
   <div class="image-scroller">
     <div class="image-tile">
-      <embed src="/images/coef_plot_combined_redStates.pdf" type="application/pdf" width="100%" height="100%">
+      <img src="/images/coef_plot_combined_redStates.png" alt="The Effect of Private Action Enforcement">
     </div>
   </div>
 </div>
