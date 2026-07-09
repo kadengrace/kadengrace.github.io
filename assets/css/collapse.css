@@ -16,6 +16,29 @@
     padding : 5px;
 }
 
+/* Job Market Paper callout */
+.jmp-callout {
+    background-color: rgba(82, 173, 200, 0.10);
+    border-left: 4px solid var(--global-link-color, #52adc8);
+    border-radius: 6px;
+    padding: 1.25em 1.5em;
+    margin: 1.5em 0;
+}
+
+.jmp-callout h3 {
+    margin-top: 0.25em;
+}
+
+.jmp-eyebrow {
+    display: block;
+    color: var(--global-link-color, #52adc8);
+    font-weight: 700;
+    font-size: 0.8em;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
 /* Research page: presentation line */
 .presented-line {
     color: var(--global-text-color-light, #888);

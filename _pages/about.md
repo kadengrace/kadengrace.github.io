@@ -16,8 +16,9 @@ You can find my [CV here](/cv/).
 
 You can email me at [kaden.grace@utk.edu](mailto:kaden.grace@utk.edu).
 
-Job Market Paper
-------
+<div class="jmp-callout" markdown="1">
+<span class="jmp-eyebrow">Job Market Paper</span>
+
 ### [The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations](/files/migrationAndersenGrace.pdf){:target="_blank"}
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
@@ -31,6 +32,7 @@ Job Market Paper
 </div>
 
 [More research →](/research/)
+</div>
 
 Research Fields
 ------
