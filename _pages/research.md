@@ -12,7 +12,7 @@ My research uses tools from applied microeconomics, causal inference, and experi
 <div class="jmp-callout" markdown="1">
 <span class="jmp-eyebrow">Job Market Paper</span>
 
-### [The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations](/files/migrationAndersenGrace.pdf){:target="_blank"}
+### [The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Policy](/files/migrationAndersenGrace.pdf){:target="_blank"}
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
 <p class="presented-line"><em>Presented:</em> ISEO Summer School (2026); ASHEcon Annual Conference (2026); Veritas Forum (2026); Society of Government Economists Annual Conference (2026); UTK Applied Microeconomics Group Workshop (2026); UTK Internal Brownbag Seminar (2026, x2); Southern Economic Association Annual Meeting (2025); ASHEcon Annual Conference (2025); UTK Applied Microeconomics Group Workshop (2025); UTK Internal Brownbag Seminar (2025).</p>
