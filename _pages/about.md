@@ -24,7 +24,7 @@ You can email me at [kaden.grace@utk.edu](mailto:kaden.grace@utk.edu).
 
 <div class="research-buttons">
   <button type="button" class="research-btn abstract-toggle"><span class="toggle-arrow">&#9654;</span> Abstract</button>
-  <a href="/files/migrationAndersenGrace.pdf" target="_blank" class="research-btn">&#128196; Read the paper (PDF)</a>
+  <a href="/files/migrationAndersenGrace.pdf" target="_blank" class="research-btn">Read the paper (PDF)</a>
   <a href="/research/" class="research-btn">More research &rarr;</a>
 </div>
 
