@@ -56,11 +56,11 @@ Secondary: Labor Economics, Behavioral and Experimental Economics
 
 **Research Assistant (Graduate)**
 *University of Tennessee - Knoxville, 2023–Current*
-- Created and cleaned a novel dataset of every physician and hospital in the U.S.: approximately 4.3M records per month across 19 years
+- Developed and curated a novel dataset of every physician and hospital in the U.S.: approximately 4.3M records per month across 19 years
 
 **Experimental Lab Manager**
 *University of Tennessee - Knoxville, 2023–Current*
-- Designed and executed 27 experimental sessions with 1,100+ participants
+- Led the design and execution of 27 experimental sessions with 1,100+ participants
 
 ---
 
