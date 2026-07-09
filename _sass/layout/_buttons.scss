@@ -65,6 +65,16 @@
     background-color: transparent;
   }
 
+  /* primary (brand accent) */
+
+  &--primary {
+    background-color: var(--global-link-color);
+
+    &:hover {
+      filter: brightness(85%);
+    }
+  }
+
   /* information */
 
   &--info {

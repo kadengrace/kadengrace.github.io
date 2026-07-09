@@ -15,19 +15,13 @@ $(".header").click(function () {
 
 });
 
-// Enhanced abstract accordion functionality
-$(".abstract-header").click(function () {
-    var $header = $(this);
-    var $content = $header.next('.abstract-content');
+// Research page: Paper/Abstract pill buttons
+$(".abstract-toggle").click(function () {
+    var $toggle = $(this);
+    var $content = $toggle.closest('.research-buttons').next('.abstract-content');
 
-    // Toggle the content
-    $content.slideToggle(400, function () {
-        // Toggle active class for arrow rotation
-        if ($content.is(":visible")) {
-            $header.addClass('active');
-        } else {
-            $header.removeClass('active');
-        }
+    $content.slideToggle(300, function () {
+        $toggle.toggleClass('active', $content.is(':visible'));
     });
 });
 

@@ -9,13 +9,16 @@ author_profile: true
 # Working Papers
 
 ## Saving for a Rainy Day: Experimental Evidence on Prize-Linked Saving and Financial Shocks
-[(Click to view latest draft)](/files/plsaGrace.pdf){:target="_blank"}
 
-<div class="abstract-accordion">
-  <div class="abstract-header">Abstract</div>
-  <div class="abstract-content">
-    {{ site.data.abstracts.plsa }}
-  </div>
+<p class="presented-line"><em>Presented:</em> Southern Economic Association Annual Meeting (2025); UTK Experiment and Theory Group Workshop (2023); UTK Applied Microeconomics Group Workshop (2023); UTK Graduate Student Research Seminar (2023); UTK Graduate Student Research Seminar (2022).</p>
+
+<div class="research-buttons">
+  <a href="/files/plsaGrace.pdf" target="_blank" class="research-btn">Paper</a>
+  <button type="button" class="research-btn abstract-toggle"><span class="toggle-arrow">&#9654;</span> Abstract</button>
+</div>
+
+<div class="abstract-content">
+  {{ site.data.abstracts.plsa }}
 </div>
 
 <div class="image-scroller-container">
@@ -37,16 +40,21 @@ author_profile: true
   </div>
 </div>
 
+---
+
 ## The Eyes of Texas are Upon OB/GYNs: Physician Migration and Crowdsourced Enforcement of Abortion Regulations
-[(Click to view latest draft)](/files/migrationAndersenGrace.pdf){:target="_blank"}
 
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
-<div class="abstract-accordion">
-  <div class="abstract-header">Abstract</div>
-  <div class="abstract-content">
-    {{ site.data.abstracts.migration }}
-  </div>
+<p class="presented-line"><em>Presented:</em> Southern Economic Association Annual Meeting (2025); ASHEcon Annual Conference (2025); UTK Applied Microeconomics Group Workshop (2025); UTK Internal Brownbag Seminar (2025); ISEO Summer School (2026); ASHEcon Annual Conference (2026); Veritas Forum (2026); Society of Government Economists Annual Conference (2026); UTK Applied Microeconomics Group Workshop (2026); UTK Internal Brownbag Seminar (2026, x2).</p>
+
+<div class="research-buttons">
+  <a href="/files/migrationAndersenGrace.pdf" target="_blank" class="research-btn">Paper</a>
+  <button type="button" class="research-btn abstract-toggle"><span class="toggle-arrow">&#9654;</span> Abstract</button>
+</div>
+
+<div class="abstract-content">
+  {{ site.data.abstracts.migration }}
 </div>
 
 <div class="image-scroller-container">
@@ -66,9 +74,10 @@ author_profile: true
 ## The Economic Impact of Unemployment Insurance Reform in Tennessee
 (with [Matt Harris](https://haslam.utk.edu/people/profile/matthew-harris/){:target="_blank"}, [Larry Kessler](https://haslam.utk.edu/people/profile/larry-kessler/){:target="_blank"}, and [Alex Norwood](https://haslam.utk.edu/people/profile/alex-norwood/){:target="_blank"})
 
-<div class="abstract-accordion">
-  <div class="abstract-header">Abstract</div>
-  <div class="abstract-content">
-    {{ site.data.abstracts.ui }}
-  </div>
+<div class="research-buttons">
+  <button type="button" class="research-btn abstract-toggle"><span class="toggle-arrow">&#9654;</span> Abstract</button>
+</div>
+
+<div class="abstract-content">
+  {{ site.data.abstracts.ui }}
 </div>

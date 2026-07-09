@@ -16,51 +16,66 @@
     padding : 5px;
 }
 
+/* Research page: presentation line */
+.presented-line {
+    color: var(--global-text-color-light, #888);
+    font-style: italic;
+    line-height: 1.6;
+    margin: 0.25em 0 0.75em;
+}
+
+/* Research page: Paper / Abstract pill buttons */
+.research-buttons {
+    display: flex;
+    gap: 0.6em;
+    flex-wrap: wrap;
+    margin: 0.75em 0 0;
+}
+
+.research-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.45em 1em;
+    border-radius: 999px;
+    border: 1px solid var(--global-dark-border-color, #bdc1c4);
+    background-color: var(--global-footer-bg-color, #f2f3f3);
+    color: var(--global-text-color, #333) !important;
+    font-weight: 600;
+    font-size: 0.9em;
+    text-decoration: none !important;
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.research-btn:hover {
+    background-color: var(--global-border-color, #e2e3e4);
+}
+
+.abstract-toggle .toggle-arrow {
+    display: inline-block;
+    font-size: 0.7em;
+    transition: transform 0.2s ease;
+}
+
+.abstract-toggle.active .toggle-arrow {
+    transform: rotate(90deg);
+}
+
 /* Enhanced Abstract Accordion */
 .abstract-accordion {
-    margin: 15px 0;
+    margin: 10px 0 15px;
     border: none;
-}
-
-.abstract-header {
-    background-color: #3a3a3a;
-    color: #ffffff;
-    padding: 12px 15px;
-    cursor: pointer;
-    font-weight: 600;
-    border-radius: 5px;
-    border: 1px solid #4a4a4a;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    user-select: none;
-}
-
-.abstract-header:hover {
-    background-color: #4a4a4a;
-    border-color: #5a5a5a;
-}
-
-.abstract-header::after {
-    content: "▼";
-    color: #ffffff;
-    font-size: 12px;
-    transition: transform 0.3s ease;
-}
-
-.abstract-header.active::after {
-    transform: rotate(-180deg);
 }
 
 .abstract-content {
     display: none;
     padding: 15px;
     margin-top: 10px;
-    font-style: italic;
     line-height: 1.6;
-    background-color: #3a3a3a;
-    color: #ffffff;
+    background-color: var(--global-footer-bg-color, #f2f3f3);
+    color: var(--global-text-color, #333);
     border-radius: 5px;
 }
 
