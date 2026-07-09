@@ -29,6 +29,16 @@
     margin-top: 0.25em;
 }
 
+.jmp-callout h3 a {
+    color: var(--global-text-color, #333) !important;
+    text-decoration: none !important;
+}
+
+.jmp-callout h3 a:hover {
+    color: var(--global-link-color, #52adc8) !important;
+    text-decoration: underline !important;
+}
+
 .jmp-eyebrow {
     display: block;
     color: var(--global-link-color, #52adc8);
