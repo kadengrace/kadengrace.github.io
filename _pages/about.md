@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Kaden Grace, a fourth-year Economics PhD candidate at the University of Tennessee - Knoxville. My [research](/research/) uses tools from applied microeconomics, causal inference, and experiments to answer questions about public finance and health economics. Outside the office, I spend a lot of time [underwater](/scuba/).
+Hello! I'm Kaden Grace, a fifth-year Economics PhD candidate at the University of Tennessee - Knoxville. My [research](/research/) uses tools from applied microeconomics, causal inference, and experiments to answer questions about public finance and health economics. Outside the office, I spend a lot of time [underwater](/scuba/).
 
-I will graduate in May 2027.
+*I am on the job market in 2026-27.*
 
 You can find my [CV here](/cv/). 
 
