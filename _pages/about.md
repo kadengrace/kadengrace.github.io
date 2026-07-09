@@ -23,15 +23,14 @@ You can email me at [kaden.grace@utk.edu](mailto:kaden.grace@utk.edu).
 *(with [Martin Andersen](https://www.uncg.edu/employees/martin-andersen/){:target="_blank"})*
 
 <div class="research-buttons">
-  <a href="/files/migrationAndersenGrace.pdf" target="_blank" class="research-btn">Paper</a>
   <button type="button" class="research-btn abstract-toggle"><span class="toggle-arrow">&#9654;</span> Abstract</button>
+  <a href="/files/migrationAndersenGrace.pdf" target="_blank" class="research-btn">&#128196; Read the paper (PDF)</a>
+  <a href="/research/" class="research-btn">More research &rarr;</a>
 </div>
 
 <div class="abstract-content">
   {{ site.data.abstracts.migration }}
 </div>
-
-[More research →](/research/)
 </div>
 
 Research Fields

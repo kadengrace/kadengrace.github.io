@@ -53,6 +53,7 @@
 .presented-line {
     color: var(--global-text-color-light, #888);
     font-style: italic;
+    font-size: 0.85em;
     line-height: 1.6;
     margin: 0.25em 0 0.75em;
 }
