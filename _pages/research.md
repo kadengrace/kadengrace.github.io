@@ -31,7 +31,10 @@ My research uses tools from applied microeconomics, causal inference, and experi
   <button class="scroller-arrow right">›</button>
   <div class="image-scroller">
     <div class="image-tile">
-      <img src="/images/coef_plot_combined_redStates.png" alt="The Effect of Private Action Enforcement">
+      <img src="/images/sdid_event_study_active_regulatedStates.png" alt="SDID Event Study: Active Physicians in Regulated States">
+    </div>
+    <div class="image-tile">
+      <img src="/images/coef_plot_combined_regulatedStates.png" alt="The Effect of Private Action Enforcement">
     </div>
   </div>
 </div>
