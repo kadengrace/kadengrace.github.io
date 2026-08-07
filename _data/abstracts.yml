@@ -15,26 +15,22 @@ plsa: >
 
 migration: >
   This paper studies the labor market effects of private liability enforcement using Texas
-  Senate Bill 8 (SB-8, 2021) as a natural experiment. A private enforcement mechanism
-  in this context allows any citizen to sue anyone who "aids or abets" a prohibited abortion
-  for minimum damages of $10,000. This "bounty law" lowers the evidentiary burden and expands
-  the pool of potentially liable individuals, which raises expected operating costs and could
-  incentivize out-migration for a broad set of physicians compared to traditional state
-  enforcement. We exploit variation across physician specialties, states, and time in a
-  synthetic difference-in-differences (SDID) design, comparing reproductive health physicians
-  to all other physicians in Texas against similarly regulated states before and after SB-8's
-  signing. Using a Medicare administrative provider panel of 1,639,519 physicians (2015--2022)
-  and Wagescape job posting data (2016--2022), we find that reproductive health physicians did
-  not leave Texas at differential rates following SB-8: our SDID estimate allows us to rule out
-  an effect larger than 989 physicians moving, a 4.1% change relative to the pre-period
-  baseline, ruling out effects as large as those found in most of the contemporary literature
-  on physician migration responses to state-enforced abortion restrictions. The null result is
-  consistent with the high fixed cost of interstate relocation, estimated at $150,000 to
-  $250,000. Neither posted salaries nor job posting volume for reproductive health providers
-  changed differentially. Our results provide a contrast to prominent media narratives of a
-  large OB/GYN exodus from Texas. We contribute to a rapidly emerging literature by providing
-  evidence that private enforcement had no detectable effect on the Texas physician labor
-  market above and beyond the broader abortion policy environment.
+  Senate Bill 8 (SB-8, 2021) as a natural experiment. A private enforcement mechanism in this
+  context allows any citizen to sue anyone who aids or abets a prohibited abortion for minimum
+  damages of $10,000. This practice lowers the evidentiary burden and expands the pool of
+  potentially liable individuals, which raises expected operating costs and could incentivize
+  out-migration for a broad set of physicians compared to traditional state enforcement. We
+  leverage variation across physician specialties, states, and time in a synthetic
+  difference-in-differences (SDID) design to compare reproductive health physicians to all
+  other physicians in Texas against similarly regulated states before and after SB-8's signing.
+  We find that reproductive health physicians did not leave Texas at differential rates
+  following SB-8. We can rule out an effect larger than 989 physicians moving, a 4.1% change
+  relative to the pre-period baseline. For reference, we can rule out effects as large as those
+  found in most of the contemporary literature on physician migration responses to
+  state-enforced abortion restrictions. We also examine posted salaries and numbers of job
+  offers and find no evidence of increased turnover nor compensating wage differentials under
+  the risk of private enforcement. Our results provide a contrast to prominent media narratives
+  of a large OB/GYN exodus from Texas.
 
 ui: >
   In 2024, Tennessee changed the generosity and duration of Unemployment Insurance (UI)
